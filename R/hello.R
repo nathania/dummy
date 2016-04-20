@@ -19,3 +19,4 @@ hello <- function() {
 
 # Ashmit added a line
 # natty added this line
+# Freddie Mercury
