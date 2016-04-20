@@ -14,7 +14,8 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  print("Hello, world!")
 }
+
+xxx
 
 # natty added this line
