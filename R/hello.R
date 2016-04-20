@@ -14,10 +14,14 @@
 #   Test Package:              'Cmd + Shift + T'
 # Namaste
 hello <- function() {
-  print("Hello, world!")
 }
 
+zzz
+yyy
+xxx
+=======
 #bla bla bla
 # Ashmit added a line
 
 # natty added this line
+# Freddie Mercury
